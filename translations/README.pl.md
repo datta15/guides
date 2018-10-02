@@ -247,3 +247,4 @@ W powyższym pliku README:
 - Pojawiły się terminy związane z interfejsem i terminologią GitHub. W większości przypadków nie zostały one przetłumaczone, z wyjątkiem terminu "branch", który w języku polskim powszechnie występuje jako "gałąź"
 - Pojawił się termin "stub article", który tłumaczony dosłownie oznacza "kikut artykułu" co w języku polskim nie oddaje prawidłowo znaczenia sensu tej struktury. Z tego powodu zamiast wymienionego wyżej zwrotu zastosowany został termin "trzon"
 - W sekcji "General writing tips" zachowana została oryginalna forma pisowni osób i zwrotów w języku angielskim tam, gdzie zwroty te wyjaśniały w jaki sposób należy pisać artykuły
+
